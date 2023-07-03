@@ -1,4 +1,3 @@
-from PIL import Image
 import torch
 from torch import autocast
 from diffusers import StableDiffusionPipeline
